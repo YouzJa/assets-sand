@@ -101,5 +101,22 @@
     "audioUrl": "",
     "createdAt": "2026-03-16T15:06:22.749Z",
     "updatedAt": "2026-03-16T15:06:22.749Z"
+  },
+  {
+    "id": "deic",
+    "sanskrit": "dice",
+    "transliteration": "deic",
+    "translation": "diec",
+    "difficulty": "easy",
+    "tags": [],
+    "usageTargets": [
+      "pictionary",
+      "zatam"
+    ],
+    "otherNames": [],
+    "imageUrl": "https://cdn.jsdelivr.net/gh/YouzJa/assets-sand/images/deic.png",
+    "audioUrl": "",
+    "createdAt": "2026-03-16T15:27:58.861Z",
+    "updatedAt": "2026-03-16T15:27:58.861Z"
   }
 ]
