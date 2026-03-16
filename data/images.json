@@ -67,5 +67,22 @@
     "audioUrl": "",
     "createdAt": "2026-03-16T11:52:56.738Z",
     "updatedAt": "2026-03-16T11:52:56.738Z"
+  },
+  {
+    "id": "child",
+    "sanskrit": "childe",
+    "transliteration": "child",
+    "translation": "chill",
+    "difficulty": "easy",
+    "tags": [],
+    "usageTargets": [
+      "pictionary",
+      "zatam"
+    ],
+    "otherNames": [],
+    "imageUrl": "https://cdn.jsdelivr.net/gh/YouzJa/assets-sand/images/child.jpg",
+    "audioUrl": "",
+    "createdAt": "2026-03-16T11:53:12.204Z",
+    "updatedAt": "2026-03-16T11:53:12.204Z"
   }
 ]
