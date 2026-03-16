@@ -84,5 +84,22 @@
     "audioUrl": "",
     "createdAt": "2026-03-16T11:53:12.204Z",
     "updatedAt": "2026-03-16T11:53:12.204Z"
+  },
+  {
+    "id": "pnggggg",
+    "sanskrit": "png",
+    "transliteration": "pnggggg",
+    "translation": "pngggg",
+    "difficulty": "easy",
+    "tags": [],
+    "usageTargets": [
+      "pictionary",
+      "zatam"
+    ],
+    "otherNames": [],
+    "imageUrl": "https://cdn.jsdelivr.net/gh/YouzJa/assets-sand/images/pnggggg.png",
+    "audioUrl": "",
+    "createdAt": "2026-03-16T15:06:22.749Z",
+    "updatedAt": "2026-03-16T15:06:22.749Z"
   }
 ]
