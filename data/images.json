@@ -50,5 +50,22 @@
     "audioUrl": "",
     "createdAt": "2026-03-16T11:52:39.179Z",
     "updatedAt": "2026-03-16T11:52:39.179Z"
+  },
+  {
+    "id": "cuh",
+    "sanskrit": "chad",
+    "transliteration": "cuh",
+    "translation": "cauh",
+    "difficulty": "easy",
+    "tags": [],
+    "usageTargets": [
+      "pictionary",
+      "zatam"
+    ],
+    "otherNames": [],
+    "imageUrl": "https://cdn.jsdelivr.net/gh/YouzJa/assets-sand/images/cuh.jpg",
+    "audioUrl": "",
+    "createdAt": "2026-03-16T11:52:56.738Z",
+    "updatedAt": "2026-03-16T11:52:56.738Z"
   }
 ]
