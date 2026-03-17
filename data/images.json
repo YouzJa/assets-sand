@@ -118,5 +118,22 @@
     "audioUrl": "",
     "createdAt": "2026-03-16T15:27:58.861Z",
     "updatedAt": "2026-03-16T15:27:58.861Z"
+  },
+  {
+    "id": "batman1",
+    "sanskrit": "batman",
+    "transliteration": "batman1",
+    "translation": "batman2",
+    "difficulty": "easy",
+    "tags": [],
+    "usageTargets": [
+      "pictionary",
+      "zatam"
+    ],
+    "otherNames": [],
+    "imageUrl": "https://cdn.jsdelivr.net/gh/YouzJa/assets-sand/images/batman1.jpeg",
+    "audioUrl": "",
+    "createdAt": "2026-03-17T14:21:01.908Z",
+    "updatedAt": "2026-03-17T14:21:01.908Z"
   }
 ]
